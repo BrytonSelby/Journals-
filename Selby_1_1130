@@ -1,0 +1,5 @@
+The difference between an object and a variable, and the difference of a class and an object. 
+in oder, a variable goes into an object, and an object goes into a class. so, in that oder;
+a variable is a line of code that specifies this = that.
+an object is a group of variable that build a unique subject in the code.
+and a class is a group of objects that are similar or the same. 
