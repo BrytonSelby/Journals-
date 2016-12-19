@@ -1,0 +1,4 @@
+a 'String' is a list of commands on the java command line that use variables to perform a certain action.
+a 'integer' is a number based variable that is used to show ammount/order in/of variables, respectively.
+a 'method' is a group of command telling java how to perform a certain task. 
+we use methods so we can add or change the code and its output in a larger scale, speed, or with more accuracy.   
